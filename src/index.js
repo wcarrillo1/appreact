@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Routes from './Routes/index'
+import Home from './view/Home'
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Utility/style/style.css'
@@ -11,7 +12,7 @@ ReactDOM.render(
   
   <React.StrictMode>
      
-       <Routes />
+    <Home/>
     
   </React.StrictMode>,
  
