@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/appreact/static/css/main.98d65146.css",
-    "main.js": "/appreact/static/js/main.4ae2dd98.js",
+    "main.js": "/appreact/static/js/main.c5b9bfd9.js",
     "static/js/787.704dec8c.chunk.js": "/appreact/static/js/787.704dec8c.chunk.js",
     "static/media/logo.png": "/appreact/static/media/logo.d587420766818eb301b1.png",
     "static/media/recolectando.png": "/appreact/static/media/recolectando.a461e2e8f2e2610b306a.png",
@@ -13,11 +13,11 @@
     "static/media/notification.ttf?s3g3t9": "/appreact/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/appreact/index.html",
     "main.98d65146.css.map": "/appreact/static/css/main.98d65146.css.map",
-    "main.4ae2dd98.js.map": "/appreact/static/js/main.4ae2dd98.js.map",
+    "main.c5b9bfd9.js.map": "/appreact/static/js/main.c5b9bfd9.js.map",
     "787.704dec8c.chunk.js.map": "/appreact/static/js/787.704dec8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98d65146.css",
-    "static/js/main.4ae2dd98.js"
+    "static/js/main.c5b9bfd9.js"
   ]
 }
