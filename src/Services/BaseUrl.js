@@ -1,0 +1,1 @@
+export const RouteBase = 'https://w280381.ferozo.com/api'

@@ -1,0 +1,51 @@
+
+.seguidor{
+  
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;  
+        }
+
+ .containerseguidor{
+   width: 100%;
+   height: 100%;
+   justify-content: center;
+   color: #F93515;
+   font-size: 12px;
+   background-color: #19196D;
+   text-align: center;
+ }
+
+ .login{
+  height: 100%;
+  width: 100%;
+   background-color: #19196D;
+  
+  
+ }
+
+ .loginDiv {
+  justify-content: center;
+  color: #F93515;
+  font-size: 12px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ }
+
+ .imgCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+  .cardSeguidor {
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    background-color: #19196D;
+
+  }
